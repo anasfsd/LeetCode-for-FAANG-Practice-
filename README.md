@@ -1,4 +1,3 @@
-# LeetCode-for-FAANG-Practice
 ## LeetCode Practice For FAANG
 📢**Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-leetcodepractice-dsaforbeginners-activity-7349438254573637632-7s13?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA) 
 
