@@ -1,7 +1,6 @@
 ## LeetCode Practice For FAANG
-📢**Announcement:** [View on Linkedin](https://www.linkedin.com/posts/icode-guru_icodeguru-leetcodepractice-dsaforbeginners-activity-7349438254573637632-7s13?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJUlyQBcHALIuWhW2d9Xb_4FsM7AiPxpRA) 
 
-I’m excited to share that I’m teaching Data Structures & Algorithms (DSA) along with my best teammate [Nazia Ramzan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’re solving LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
+I’m excited to share that I have taught Data Structures & Algorithms (DSA) along with my best teammate [Nazia Ramzan](https://www.linkedin.com/in/nazia-khan-02588312a/) We’have solved LeetCode questions, breaking down tough concepts, and helping others get better at coding interviews.
 
 - **Day 1:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/586695861180981/)
 - **Day 2:** [Watch on Facebook](https://www.facebook.com/watch?v=2222503534872141&_rdc=1&_rdr#)
